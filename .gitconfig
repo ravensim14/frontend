@@ -1,0 +1,5 @@
+[user]
+	name = ravensim14
+	email = torumees@gmail.com\ngit config --global core.autocrlf input\ngit config --global user.email \"torumees@gmail.com\"
+[core]
+	autocrlf = true
